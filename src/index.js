@@ -1,5 +1,5 @@
 import {sum} from './math';
-import './styles/style1.css';
-import './styles/style2.less';
+import './styles/common.less';
+import './styles/index.css';
 
 console.log(sum(2, 3));
